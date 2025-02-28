@@ -15,9 +15,9 @@ Running the script as is will trigger an input interactively in which the user c
 
 ### Using flags
 
+```{text}
 $ python h2x-analyzer.py -molecule H2O -threshold 0.01
 
-```{text}
 Equilibrium Energy: -76.024 Hartrees
 Equilibrium Bond Length: 0.950 Å
 Equilibrium Bond Angle: 105.0°
