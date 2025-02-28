@@ -17,15 +17,11 @@ Running the script as is will trigger an input interactively in which the user c
 
 $ python h2x-analyzer.py -molecule H2O -threshold 0.01
 
-Equilibrium Energy: -76.024 Hartrees
-
-Equilibrium Bond Length: 0.950 Å
-
-Equilibrium Bond Angle: 105.0°
-
-Symmetric Stretch Frequency: 3754 cm⁻¹
-
-Bending Mode Frequency: 1551 cm⁻¹
+Equilibrium Energy: -76.024 Hartrees\n
+Equilibrium Bond Length: 0.950 Å\n
+Equilibrium Bond Angle: 105.0°\n
+Symmetric Stretch Frequency: 3754 cm⁻¹\n
+Bending Mode Frequency: 1551 cm⁻¹\n
 
 ![Energy surface plot](readme-images/energy-surface-plot.png)
 
