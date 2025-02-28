@@ -1,7 +1,7 @@
 # Triatomic Vibrational Frequency Analyzer
 
 A command-line tool written in Python3 for computing the equilibrium energy, bond length and bond angle,
-symmetric stretching frequency, bending mode frequency. This program also plots the energy surface as a function of bond length and bond angle. 
+symmetric stretching frequency, bending mode frequency. This program also plots the energy surface as a function of bond length and bond angle.
 
 ## Dependencies
 
