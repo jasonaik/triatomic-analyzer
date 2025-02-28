@@ -23,6 +23,6 @@ Equilibrium Bond Angle: 105.0°
 Symmetric Stretch Frequency: 3754 cm⁻¹
 Bending Mode Frequency: 1551 cm⁻¹
 
-![Energy surface plot](readme-images\energy-surface-plot.png)
+![Energy surface plot](readme-images/energy-surface-plot.png)
 
-![Overlapping plot](readme-images\overlapping-plot.png)
+![Overlapping plot](readme-images/overlapping-plot.png)
